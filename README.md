@@ -34,6 +34,29 @@ Edit or delete blogs created by the logged-in user.
 
 ## Project Details
 This website was built as part of an online Full Stack Development course from my college to apply concepts of frontend and backend development.
-  
-   
+
+## Screenshots
+
+### Home Page
+![Home Page](Home.jpg)
+
+### Sign In Page
+![Sign In Page](Signin.jpg)
+
+
+### Role  selecting Page
+![Role](role.jpg)
+
+### Author Page
+![Author Page](author.jpg)
+
+### Add Article Page
+![Add Article](addarticle.jpg)
+
+### User Adding a Comment
+![User Adding Comment](useraddingcomment.jpg)
+
+### User Added Comment
+![User Added Comment](useraddedcomment.jpg)
+
 
